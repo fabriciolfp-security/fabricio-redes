@@ -16,13 +16,13 @@ Atuo como Consultor na área de segurança integrada, com ampla experiência em:
 - Coordenação e supervisão de obras
 
 ## 🛠️ Certificações
-- AXIS
-- Genetec
+- AXIS Comunications
+- Genetec INC
 - Trilobit
-- Dahua
-- Intelbras
-- Furukawa
-- Hikvision
+- Dahua Technology
+- Intelbras Segurança Conectividade e Energia
+- Lightera Soluções Completas em fibra óptica e conectividade 
+- Hikvision Líder em Tecnologia Avançada
 
 ## 📂 Objetivo deste perfil
 Compartilhar projetos, documentações e boas práticas na área de:
